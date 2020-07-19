@@ -1,0 +1,2 @@
+# Xsolla_Summer_School_2020
+Тестовое задание Xsolla_Summer_School_2020
